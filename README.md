@@ -11,7 +11,7 @@ Las tecnologias implementadas para el proyecto seran las siguientes:
 
 Integrantes:
  - Andres Figueroa Guzman
- - Benjamin Burguia
+ - Benjamin Murguia
  - Jose Medina
  - Leonel Bustamante
 

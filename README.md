@@ -13,3 +13,16 @@ Integrantes:
  - Andres Figueroa Guzman
  - Benjamin Burguia
  - Jose Medina
+
+
+Login
+
+![index](https://github.com/Andres-FigueroaG/ProyectoFarmacia/assets/134104347/157708a2-9cec-4909-8198-9e81fb7d2635)
+
+Inicio
+
+![incio](https://github.com/Andres-FigueroaG/ProyectoFarmacia/assets/134104347/6f6d99e1-854b-47c1-8d19-92b984cdad26)
+
+Proveedores
+
+![provedor](https://github.com/Andres-FigueroaG/ProyectoFarmacia/assets/134104347/c93292c7-cf94-4891-803f-52784a5e3557)

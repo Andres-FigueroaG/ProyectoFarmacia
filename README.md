@@ -26,6 +26,9 @@ Bienvenido al repositorio del sistema de ventas de Farmacorp, una solución inte
  - **desarrollador Frontend:** Pol Leonel Bustamante
  - **Administrador de base de datos:** Jose Medina
 
+### Enlace al Repositorio alojado en OneDrive:
+https://upds-my.sharepoint.com/:f:/g/personal/sc_andres_figueroa_g_upds_net_bo/Emro2Qn6xGxBqLKhauWVv1oBy0lx75hwlxtlljFC2sEwUQ?e=pkkVwe
+
 ## Diagrama de nuestra base de datos
 ![Captura de pantalla 2023-08-31 103559](https://github.com/Andres-FigueroaG/ProyectoFarmacia/assets/134104347/d65387bd-e779-414f-91fd-c07803f7e162)
 

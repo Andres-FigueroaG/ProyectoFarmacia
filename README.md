@@ -15,7 +15,7 @@ Integrantes:
  - Jose Medina
  - Leonel Bustamante
 
-#Roles del equipo
+# Roles del equipo
  - Andres Figueroa Guzman (Desarrollador Backend)
  - Benjamin Murguia (Desarrollador Backend)
  - Jose Medina (Administrador de base de datos)

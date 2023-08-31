@@ -45,7 +45,7 @@ Bienvenido al repositorio del sistema de ventas de Farmacorp, una solución inte
 ### Lista de trabajadores
 ![Lista de trabajadores](https://github.com/Andres-FigueroaG/ProyectoFarmacia/assets/134104347/1e1fa4c4-8765-4b2c-8f37-fc9740f7cff1)
 
-###Lista de clientes
+### Lista de clientes
 ![Lista de clientes](https://github.com/Andres-FigueroaG/ProyectoFarmacia/assets/134104347/4769a27e-53a4-4f7e-8d50-fb08a307e1ef)
 
 

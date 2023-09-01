@@ -27,7 +27,7 @@ Bienvenido al repositorio del sistema de ventas de Farmacorp, una solución inte
  - **Administrador de base de datos:** Jose Medina
 
 ### Enlace al Repositorio alojado en OneDrive:
-https://upds-my.sharepoint.com/:f:/g/personal/sc_andres_figueroa_g_upds_net_bo/Emro2Qn6xGxBqLKhauWVv1oBy0lx75hwlxtlljFC2sEwUQ?e=pkkVwe
+https://upds-my.sharepoint.com/:f:/g/personal/sc_andres_figueroa_g_upds_net_bo/Emro2Qn6xGxBqLKhauWVv1oBy0lx75hwlxtlljFC2sEwUQ?e=2MTwZO
 
 ## Diagrama de nuestra base de datos
 ![Captura de pantalla 2023-08-31 103559](https://github.com/Andres-FigueroaG/ProyectoFarmacia/assets/134104347/d65387bd-e779-414f-91fd-c07803f7e162)
@@ -47,6 +47,9 @@ https://upds-my.sharepoint.com/:f:/g/personal/sc_andres_figueroa_g_upds_net_bo/E
 
 ### Lista de trabajadores
 ![Lista de trabajadores](https://github.com/Andres-FigueroaG/ProyectoFarmacia/assets/134104347/1e1fa4c4-8765-4b2c-8f37-fc9740f7cff1)
+
+### Carrito de compras
+![Carrito de compras](https://github.com/Andres-FigueroaG/ProyectoFarmacia/assets/134104347/fd3d9226-a83a-47d9-becb-10fd87d06cca)
 
 ### Lista de clientes
 ![Lista de clientes](https://github.com/Andres-FigueroaG/ProyectoFarmacia/assets/134104347/4769a27e-53a4-4f7e-8d50-fb08a307e1ef)
